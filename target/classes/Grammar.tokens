@@ -1,0 +1,17 @@
+ADD=7
+NUMBER=1
+LPAREN=8
+EXPONENT=3
+MULTIPLY=4
+RPAREN=9
+WS=10
+SUBTRACT=6
+INT=2
+DIVIDE=5
+'^'=3
+'-'=6
+'+'=7
+'*'=4
+')'=9
+'('=8
+'/'=5
